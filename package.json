@@ -1,0 +1,20 @@
+{
+  "name": "wordpress-shortcode-functions-js",
+  "version": "1.0.0",
+  "description": "Searches a string for Wordpress shortcodes and calls a mapped function with the attributes as parameters. Return values replace the shortcode in the string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websterman/wordpress-shortcode-functions-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/websterman/wordpress-shortcode-functions-js/issues"
+  },
+  "homepage": "https://github.com/websterman/wordpress-shortcode-functions-js#readme"
+}
